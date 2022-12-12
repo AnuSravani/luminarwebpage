@@ -1,0 +1,53 @@
+.l1{
+    text-align:left;
+    padding-left:70px;
+    color:rgb(83, 50, 115);
+}
+h5{
+    padding-left:70px;
+    color:blueviolet;
+}
+.bu{
+  position:relative;
+  left:80px;
+  border-radius:100px;
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-left:50px;
+  padding-right:50px;
+  
+}
+.bu:hover{
+    background-color:white;
+    color:blueviolet;
+    border:2px solid rgb(229, 225, 232);
+}
+
+.t{
+    padding-top:100px
+}
+
+.card-text{
+    text-align:left;
+    padding:0px;
+
+}
+h6{
+    color:rgb(70, 16, 121)
+}
+.v{
+    
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;padding-bottom:20px;
+    border:2px solid rgb(98, 40, 152);
+    color:rgb(84, 35, 130);
+    border-radius:100px;
+    background-color:white;
+}
+.v:hover{
+    background-color:rgb(73, 29, 114);
+    color:white;
+}
+
+
